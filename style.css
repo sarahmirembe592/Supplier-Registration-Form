@@ -1,0 +1,33 @@
+body {
+  background-color: lightgrey;
+  padding: 40px;
+}
+.container {
+  max-width: 700px;
+  margin: auto;
+  background-color: blanchedalmond;
+  padding: 30px;
+  border-radius: 8px;
+}
+h1 {
+  text-align: center;
+}
+.input-section {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+input,
+select {
+  height: 30px;
+}
+label {
+  margin: 10px;
+}
+.final {
+  text-align: center;
+}
+.end {
+  color: aliceblue;
+  background-color: blue;
+}
